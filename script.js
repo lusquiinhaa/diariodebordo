@@ -578,6 +578,75 @@ function TestimonialVM(settings = {}){
 					'#fae69e'
 				]
 			},
+
+			{
+				author: '10/10/2023 ',
+				quote: 'Em aula grupo combinou de se juntar na quinta "Feriado" para poder fazer o desenvolivmento',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '12/10/2023 ',
+				quote: 'Leo, Ste, Jão e lucas se juntaram para fazer o desenvolvimento acordado. Flavia não apreceu e não deu sinal',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '13/10/2023 ',
+				quote: 'Não nos reunimos porem cada um ja sabia o que tinha que ajeitar para fazer',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+
+			{
+				author: '14/10/2023 e 15/10/2023' ,
+				quote: 'Ste e joao se juntaram para formatar e terminar a introdução',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+
+			{
+				author: '16/10/2023' ,
+				quote: 'Todos do grupo cobraram a Flavia de fazer a perte dela pois a mesma nao havia feito',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '17/10/2023' ,
+				quote: 'Começamos a elaboração do slide para apresentação na terça, cada um separou seus topicos para apresentar',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
 			
 		//	author: ' ',
 		//		quote: ' ',
