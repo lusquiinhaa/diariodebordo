@@ -592,7 +592,7 @@ function TestimonialVM(settings = {}){
 			},
 			{
 				author: '12/10/2023 ',
-				quote: 'Leo, Ste, Jão e lucas se juntaram para fazer o desenvolvimento acordado. Flavia não apreceu e não deu sinal',
+				quote: 'Leo, Ste, Jão e Lucas se juntaram para fazer o desenvolvimento acordado. Flavia não apareceu e não deu sinal.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
@@ -603,7 +603,7 @@ function TestimonialVM(settings = {}){
 			},
 			{
 				author: '13/10/2023 ',
-				quote: 'Não nos reunimos porem cada um ja sabia o que tinha que ajeitar para fazer',
+				quote: 'Não nos reunimos, porém cada um já sabia o que tinha que ajustar para fazer.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
@@ -615,7 +615,7 @@ function TestimonialVM(settings = {}){
 
 			{
 				author: '14/10/2023 e 15/10/2023' ,
-				quote: 'Ste e joao se juntaram para formatar e terminar a introdução',
+				quote: 'Ste e João se juntaram para formatar e terminar a introdução.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
@@ -627,7 +627,7 @@ function TestimonialVM(settings = {}){
 
 			{
 				author: '16/10/2023' ,
-				quote: 'Todos do grupo cobraram a Flavia de fazer a perte dela pois a mesma nao havia feito',
+				quote: 'Todos do grupo cobraram a Flavia para fazer a parte dela, pois a mesma não havia feito.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
@@ -638,7 +638,7 @@ function TestimonialVM(settings = {}){
 			},
 			{
 				author: '17/10/2023' ,
-				quote: 'Começamos a elaboração do slide para apresentação na terça, cada um separou seus topicos para apresentar',
+				quote: 'Começamos a elaboração do slide para apresentação na terça-feira. Cada um separou seus tópicos para apresentar.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
@@ -647,7 +647,29 @@ function TestimonialVM(settings = {}){
 					'#fae69e'
 				]
 			},
-			
+
+			{
+				author: '19/10/2023' ,
+				quote: 'Criamos os cracha <3.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '23/10/2023' ,
+				quote: 'Ultimos ajuste para o dia da apresentação .',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
 		//	author: ' ',
 		//		quote: ' ',
 		//		img: 'https://chat.openai.com/favicon-32x32.png',
