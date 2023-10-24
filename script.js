@@ -663,7 +663,7 @@ function TestimonialVM(settings = {}){
 				author: '23/10/2023' ,
 				quote: 'Ultimos ajuste para o dia da apresentação .',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1166463566400979105/Imagem_do_WhatsApp_de_2023-10-24_as_16.47.05_17b0b1a8.jpg?ex=654a94da&is=65381fda&hm=3c9b86a99123404f04696fd7ca93878a77f60aac8bd23e21d087f25ff6e555be& ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
