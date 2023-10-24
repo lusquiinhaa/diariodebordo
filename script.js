@@ -26,7 +26,7 @@ function TestimonialVM(settings = {}){
 				author: '09/02/2023 -> A escolha do tema',
 				quote: 'A ideia baseava-se em um sistema de rastreamento de encomendas em tempo real. No entanto, descobrimos que o correio já possuía esse sistema, o que tornaria inviável continuar o projeto, uma vez que ele já existia.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1166464997568807022/animacion-transporte-internacional-chile-glz-logistica.gif?ex=654a962f&is=6538212f&hm=2996e7d26348e4fd7103288e2fcf0bef380e3fd0d389c06d1b717d4eb06b8b36& ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
@@ -417,7 +417,7 @@ function TestimonialVM(settings = {}){
 				author: '26/07/2023 ',
 				quote: 'Tentamos melhorar mais o tema eficou como " Gestão de Segurança no Transporte de Nitrato de Amônia na Cesari de Cubatão" ',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1166463566736535593/Imagem_do_WhatsApp_de_2023-10-24_as_16.47.27_9e3ceeab.jpg?ex=654a94da&is=65381fda&hm=638af1a0da3815691e989823c927c635b527b8f160b9ef905cb5d3bbd9a968d9& ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
@@ -652,7 +652,7 @@ function TestimonialVM(settings = {}){
 				author: '19/10/2023' ,
 				quote: 'Criamos os cracha <3.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1166463567042715799/Imagem_do_WhatsApp_de_2023-10-24_as_16.48.15_e3aebdd6.jpg?ex=654a94da&is=65381fda&hm=bf22b46b9746b281981ac9205b497b2bae6534347fdff3304f57a848653e5498& ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
