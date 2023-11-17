@@ -37,7 +37,7 @@ function TestimonialVM(settings = {}){
 				author: '10/02/2023 -> Criação do diário de bordo',
 				quote: 'Lucas deu a ideia de criar algo de autoria própria, já que todos os outros iriam usar sites prontos e, no final, ficariam todos iguais. Tive essa ideia durante uma madrugada, quando as melhores ideias costumam aparecer. No site, foram utilizados elementos simples, porém funcionais, como um sistema de autenticação de usuário e senha para preservar as informações e permitir o acesso apenas para quem deve ter permissão.A linguagem utilizada para criar o site foi HTML, CSS e JavaScript.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				internalImg: 'https://4.bp.blogspot.com/-7ab79jMOUFI/XGnHbRPQyXI/AAAAAAAAFJA/tCjz6q6r0iU92p5X7V5cqK2hsB5tX5jrwCLcBGAs/s1600/c49a207e0f89c9290d98fd43a87a8cb0.gif',
 				mainColor: '#2392db',
 				colors: [
 					'#2fffcb',
