@@ -26,7 +26,7 @@ function TestimonialVM(settings = {}){
 				author: '09/02/2023 -> A escolha do tema',
 				quote: 'A ideia baseava-se em um sistema de rastreamento de encomendas em tempo real. No entanto, descobrimos que o correio já possuía esse sistema, o que tornaria inviável continuar o projeto, uma vez que ele já existia.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1166464997568807022/animacion-transporte-internacional-chile-glz-logistica.gif?ex=654a962f&is=6538212f&hm=2996e7d26348e4fd7103288e2fcf0bef380e3fd0d389c06d1b717d4eb06b8b36& ',
+				internalImg: '# ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
@@ -223,7 +223,7 @@ function TestimonialVM(settings = {}){
       {
 				author: '22/04/2023 Reunião do grupo ',
 				quote: 'Fomos discutir e desenvolver o novo tema na casa de um dos integrantes e um dos integrantes ficou de fora, pois estávamos brigados e nos distanciamos. ',
-				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112539300853207090/Imagem_do_WhatsApp_de_2023-05-24_as_14.06.26.jpg',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
 				colors: [
@@ -670,16 +670,75 @@ function TestimonialVM(settings = {}){
 					'#fae69e'
 				]
 			},
-		//	author: ' ',
-		//		quote: ' ',
-		//		img: 'https://chat.openai.com/favicon-32x32.png',
-		//		mainColor: '#75a99c',
-		//		colors: [
-		//			'#9b59b8', 
-		//			'#fae69e'
-		//		]
-		//	},
+			{
+				author: '24/10/2023' ,
+				quote: 'Dia da apresentação, ajustes finais, criação das plaquinhas. Passamos o dia ajustando os slides e as partes escritas para a apresentação.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176160679376474152/WhatsApp_Image_2023-10-24_at_16.25.25.jpeg?ex=656ddbfd&is=655b66fd&hm=930831b8fc36f9304aca2488414cc4ba7e2d576ab79c0e945f8847fed3c1fce8& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '24/10/2023' ,
+				quote: 'Apresentação <3',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176160649768861696/Stories_para_Instagram_com_montagem_de_fotos_viagem_simples_branco.png?ex=656ddbf6&is=655b66f6&hm=2a23ffbea9acc6f6254b88c4195d7464fb896c3886420cdfd26e10df928d2834& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
 
+			{
+				author: '25/10/2023' ,
+				quote: 'Melhorias pós apresentação',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161185691873320/WhatsApp_Image_2023-10-25_at_20.09.58.jpeg?ex=656ddc76&is=655b6776&hm=4368a38b858ca8ca70f300c204cbb9c77fc32ad23b0bf244d6c44c894de534e2& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+
+			{
+				author: '27/10/2023 a 07/11/2023'  ,
+				quote: 'Nesse período, trabalhamos nas correções apresentadas, tanto na parte escrita quanto nos slides. Criamos um roteiro para termos uma base na hora da apresentação, assim podendo melhorar nossa performance no dia da apresentação final.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161648902410310/0c751105-9f0b-4626-958c-087cd33f04e7.jpeg?ex=656ddce5&is=655b67e5&hm=6bbb7f43cac78728d58a09aeac2b20bbb58b2d23acacef2600f5efbed692333e& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '08/11/2023 a 17/11/2023'  ,
+				quote: ' Começamos a trabalhar na análise de dados. Nesse tempo, criamos outro formulário para obter mais informações sobre a amônia. Descobrimos que é possível neutralizar a explosividade da mesma com medidas de segurança ao lidar com a amônia em situações onde pode ocorrer uma explosão. Ajustamos a parte escrita que estava faltando algumas coisas.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161648902410310/0c751105-9f0b-4626-958c-087cd33f04e7.jpeg?ex=656ddce5&is=655b67e5&hm=6bbb7f43cac78728d58a09aeac2b20bbb58b2d23acacef2600f5efbed692333e& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '20/11/2023'  ,
+				quote: 'O professor deu feedback sobre o que precisamos modificar para entregar a parte escrita. Então, nos reunimos para correr com isso a tempo.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161648902410310/0c751105-9f0b-4626-958c-087cd33f04e7.jpeg?ex=656ddce5&is=655b67e5&hm=6bbb7f43cac78728d58a09aeac2b20bbb58b2d23acacef2600f5efbed692333e& ',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+	
 		])
   };
   // init
