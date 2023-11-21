@@ -720,7 +720,7 @@ function TestimonialVM(settings = {}){
 				author: '08/11/2023 a 17/11/2023'  ,
 				quote: ' Começamos a trabalhar na análise de dados. Nesse tempo, criamos outro formulário para obter mais informações sobre a amônia. Descobrimos que é possível neutralizar a explosividade da mesma com medidas de segurança ao lidar com a amônia em situações onde pode ocorrer uma explosão. Ajustamos a parte escrita que estava faltando algumas coisas.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161648902410310/0c751105-9f0b-4626-958c-087cd33f04e7.jpeg?ex=656ddce5&is=655b67e5&hm=6bbb7f43cac78728d58a09aeac2b20bbb58b2d23acacef2600f5efbed692333e& ',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1 ',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
@@ -731,7 +731,7 @@ function TestimonialVM(settings = {}){
 				author: '20/11/2023'  ,
 				quote: 'O professor deu feedback sobre o que precisamos modificar para entregar a parte escrita. Então, nos reunimos para correr com isso a tempo.',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
-				internalImg: 'https://cdn.discordapp.com/attachments/1071495282996564121/1176161648902410310/0c751105-9f0b-4626-958c-087cd33f04e7.jpeg?ex=656ddce5&is=655b67e5&hm=6bbb7f43cac78728d58a09aeac2b20bbb58b2d23acacef2600f5efbed692333e& ',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
 				colors: [
 					'#9b59b8', 
