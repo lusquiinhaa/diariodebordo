@@ -751,7 +751,7 @@ function TestimonialVM(settings = {}){
 			},
 			{
 				author: '08/12/2023'  ,
-				quote: '',
+				quote: 'Chegou o dia da apresentação final. Em nossas considerações finais, gostaríamos de expressar: Enlouquecemos',
 				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
 				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
 				mainColor: '#2392db',
