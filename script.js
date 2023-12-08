@@ -738,6 +738,28 @@ function TestimonialVM(settings = {}){
 					'#fae69e'
 				]
 			},
+			{
+				author: '02/12/2023'  ,
+				quote: 'Modificando o slide para a apresentação final e aprimorando os pontos abordados.',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
+			{
+				author: '08/12/2023'  ,
+				quote: '',
+				img: 'https://cdn.discordapp.com/attachments/1071495282996564121/1112544595243442256/PYBr.gif',
+				internalImg: 'URL_DA_IMAGEM_INTERNA_1',
+				mainColor: '#2392db',
+				colors: [
+					'#9b59b8', 
+					'#fae69e'
+				]
+			},
 	
 		])
   };
